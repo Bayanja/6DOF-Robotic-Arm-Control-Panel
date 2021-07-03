@@ -15,6 +15,4 @@ The final sub-task was to create php page and connect the database with the robo
 
 The following gif illustrates displaying the motors' angles values in the PHP page and storing them into the database. 
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/68130267/124364888-194cfb00-dc4d-11eb-9d0e-17102f56cd21.gif)
-
-
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/68130267/124365046-2c13ff80-dc4e-11eb-8b05-71be2f51e2a2.gif)
