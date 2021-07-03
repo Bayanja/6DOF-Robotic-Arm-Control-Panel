@@ -7,6 +7,8 @@ The first Task was divided into 4 sub tasks. The 1st sub-task was to design the 
 
 The 2nd sub-task was to create a database to store the motors angles values.
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/68130267/124364481-7dba8b00-dc4a-11eb-8c0f-211c256916dc.gif)
+
 The 3rd sub-task was to connect the database with the control panel.
 
 The 4th sub-task was to create php page. 
